@@ -1,3 +1,12 @@
+
+var roshambo {
+
+}
+
+
+
+
+
 // Stores the lables for the choices
 var choices = ["Rock", "Paper", "Scissors"];
 
